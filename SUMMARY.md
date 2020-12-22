@@ -2,7 +2,7 @@
 
 * [앱센터 개발 가이드](README.md)
 
-## 컨벤션
+## 컨벤션 <a id="conventions"></a>
 
-* [코드란건 말입니다](undefined/what-is-coding.md)
+* [코드란건 말입니다](conventions/what-is-coding.md)
 
