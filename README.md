@@ -1,10 +1,8 @@
 ---
-description: 를 써야 하는데 말이죠.. 어떻게 짜볼까요...
+description: 앱센터 코드 컨벤션 및 스타일 가이드
 ---
 
 # 앱센터 개발 가이드
 
-무슨 말을 써야 잘 썼다고 소문이 날까....
-
-
+> 가이드 편집은 [inu-appcenter/guides 위키](https://github.com/inu-appcenter/guides/wiki/안녕하세요)를 참고해 주세요.
 
