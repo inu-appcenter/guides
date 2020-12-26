@@ -6,3 +6,4 @@
 
 * [코드란건 말입니다](conventions/what-is-coding.md)
 
+* [새거!](haha.md)
