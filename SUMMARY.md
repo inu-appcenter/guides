@@ -2,15 +2,13 @@
 
 * [앱센터 개발 가이드](README.md)
 
-## 컨벤션 <a id="conventions"></a>
+## 개발 <a id="development"></a>
 
-* [코드란건 말입니다](conventions/what-is-coding.md)
+* [코드를 작성하기 전에](development/before-you-code.md)
 
-## 개발
+## 문서 <a id="documentation"></a>
 
-* [Untitled](undefined/untitled.md)
-
-## 문서 <a id="undefined-1"></a>
-
-* [문서란](undefined-1/undefined.md)
+* [문서란](documentation/undefined.md)
+* [README 쓰기: 1부](documentation/readme-how-to-1.md)
+* [README 쓰기: 2부](documentation/readme-2.md)
 
